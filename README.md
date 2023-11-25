@@ -4,7 +4,7 @@
 Develop a web application that allows users to convert time between different time zones.
 
 ## Duration
-48 hours from the time of receipt.
+All submissions to be done by **27 November 2023 - 8 PM IST**
 
 ### Key Requirements
 
