@@ -1,0 +1,35 @@
+.result-time{
+    background-size: cover;
+    border-radius: 10px;
+    width: 75%;
+    margin: auto;
+    height: 100%;
+}
+
+.time{
+    color: white;
+    text-align: left;
+    font-family: system-ui;
+    font-size: 45px;
+    margin: 0px 20px;
+}
+.date{
+    color: white;
+    margin: 0px;
+    font-family: system-ui;
+    margin: 0px 20px;
+    text-align: left;
+}
+
+@media (max-width: 768px){
+    .result-time{
+        height: 350px;
+        width: 45%;
+    }
+}
+@media (max-width: 480px){
+    .result-time{
+        height: 300px;
+        width: 80%;
+    }
+}
